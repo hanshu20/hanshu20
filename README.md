@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanshu20
+- 👋 Hi, I’m hanshu
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning frontent wev development
 
